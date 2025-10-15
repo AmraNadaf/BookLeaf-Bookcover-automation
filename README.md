@@ -31,3 +31,6 @@ Python • OpenCV • EasyOCR • PyDrive • Airtable API • SMTP
 **Review Needed** → Specific fix instructions ✉️
 
 Built for print-on-demand workflows. To reduce manual labour
+
+# Please Refer to the Loom recording for the explanation:
+https://www.loom.com/share/5443eca53f4140f8b88a414a69496eb0?sid=761740ce-f50b-4dcb-a159-fdb617f01805
